@@ -1,0 +1,30 @@
+{
+  "name": "cloudability",
+  "version": "0.0.1",
+  "description": "Cloudability API for Node.js",
+  "main": "lib/index",
+  "directories": {
+    "lib": "./lib"
+  },
+  "dependencies": {
+    "request": "^2.37.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/devinfoley/cloudability.git"
+  },
+  "keywords": [
+    "cloudability"
+  ],
+  "author": {
+    "name": "Devin Foley",
+    "email": "devin@devinfoley.com"
+  },
+  "license": "MIT",
+  "version": "0.0.1",
+  "homepage": "https://github.com/devinfoley/cloudability",
+  "bugs": {
+    "url": "https://github.com/devinfoley/cloudability/issues"
+  }
+}
+
